@@ -6,7 +6,7 @@ const defaultOpenGraph: Metadata['openGraph'] = {
   description: '@ashenedelweiss',
   images: [
     {
-      url: `${getServerSideURL()}/website-template-OG.webp`,
+      url: `${getServerSideURL()}/edelweiss.png`,
     },
   ],
   siteName: '@ashenedelweiss',
